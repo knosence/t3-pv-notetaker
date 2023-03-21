@@ -1,5 +1,8 @@
 # Create T3 App
 
+## OAuth
+Here is how to register a new [OAuth App] on Github (https://scribehow.com/shared/How_to_Register_a_New_OAuth_App_on_GitHub__3zphER16R72mbhCrkn3JKA)
+
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
